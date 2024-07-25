@@ -1,0 +1,27 @@
+# PHP Project with PostgreSQL
+
+This project is a PHP application that uses PostgreSQL as the database. The `index.php` file is located in the `public` folder, and the database schema can be set up using the provided `database.sql` file.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+
+- Apache HTTP Server
+- PHP 7.x or later
+- PostgreSQL 14
+
+## Installation
+Create a database named as school
+Run the database.sql
+
+Follow these steps to set up the project:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+Login Details 
+username: admin@gmail.com 
+password: Admin@123
